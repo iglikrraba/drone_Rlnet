@@ -1,0 +1,11 @@
+gymnasium==1.2.3
+stable-baselines3[extra]==2.8.0
+numpy==2.4.4
+matplotlib==3.10.8
+gpytorch==1.14
+
+pytest==8.4.2
+pytest-cov==7.0.0
+black==25.9.0
+flake8==7.3.0
+mypy==1.18.2
